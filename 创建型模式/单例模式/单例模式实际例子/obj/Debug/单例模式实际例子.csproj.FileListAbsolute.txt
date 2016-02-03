@@ -1,0 +1,4 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\单例模式\单例模式实际例子\bin\Debug\单例模式实际例子.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\单例模式\单例模式实际例子\bin\Debug\单例模式实际例子.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\单例模式\单例模式实际例子\obj\Debug\单例模式实际例子.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\单例模式\单例模式实际例子\obj\Debug\单例模式实际例子.pdb

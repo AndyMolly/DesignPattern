@@ -1,0 +1,5 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\备忘录模式\备忘录模式\bin\Debug\备忘录模式.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\备忘录模式\备忘录模式\bin\Debug\备忘录模式.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\备忘录模式\备忘录模式\obj\Debug\备忘录模式.csprojResolveAssemblyReference.cache
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\备忘录模式\备忘录模式\obj\Debug\备忘录模式.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\备忘录模式\备忘录模式\obj\Debug\备忘录模式.pdb

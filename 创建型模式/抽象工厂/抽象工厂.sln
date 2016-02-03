@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂", "抽象工厂\抽象工厂.csproj", "{95EA437E-F3AD-42DF-89F8-564ACA981896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂例子", "抽象工厂例子\抽象工厂例子.csproj", "{B8A2028E-7849-4F76-9649-7DD94141BE6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂例子2", "抽象工厂例子2\抽象工厂例子2.csproj", "{82E8FB58-8616-4E21-8274-88C23300D9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂例子3", "抽象工厂例子3\抽象工厂例子3.csproj", "{80661CA0-812B-4B3C-B218-49AE0DA5E1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95EA437E-F3AD-42DF-89F8-564ACA981896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EA437E-F3AD-42DF-89F8-564ACA981896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EA437E-F3AD-42DF-89F8-564ACA981896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EA437E-F3AD-42DF-89F8-564ACA981896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A2028E-7849-4F76-9649-7DD94141BE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A2028E-7849-4F76-9649-7DD94141BE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A2028E-7849-4F76-9649-7DD94141BE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A2028E-7849-4F76-9649-7DD94141BE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E8FB58-8616-4E21-8274-88C23300D9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E8FB58-8616-4E21-8274-88C23300D9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E8FB58-8616-4E21-8274-88C23300D9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E8FB58-8616-4E21-8274-88C23300D9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80661CA0-812B-4B3C-B218-49AE0DA5E1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80661CA0-812B-4B3C-B218-49AE0DA5E1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80661CA0-812B-4B3C-B218-49AE0DA5E1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80661CA0-812B-4B3C-B218-49AE0DA5E1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

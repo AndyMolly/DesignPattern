@@ -1,0 +1,5 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\享元模式\享元模式\obj\Debug\享元模式.csprojResolveAssemblyReference.cache
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\享元模式\享元模式\bin\Debug\享元模式.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\享元模式\享元模式\bin\Debug\享元模式.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\享元模式\享元模式\obj\Debug\享元模式.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\享元模式\享元模式\obj\Debug\享元模式.pdb

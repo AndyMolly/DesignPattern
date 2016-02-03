@@ -1,0 +1,5 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子1\bin\Debug\建造者模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子1\bin\Debug\建造者模式例子1.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子1\obj\Debug\建造者模式例子1.csprojResolveAssemblyReference.cache
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子1\obj\Debug\建造者模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子1\obj\Debug\建造者模式例子1.pdb

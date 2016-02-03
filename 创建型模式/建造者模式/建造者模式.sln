@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式", "建造者模式\建造者模式.csproj", "{4E8AB679-3EF6-4AD1-8118-0A196520DEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式例子1", "建造者模式例子1\建造者模式例子1.csproj", "{D362D5C7-2CC8-4D0F-895B-C7EC9C7637ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式例子2", "建造者模式例子2\建造者模式例子2.csproj", "{391675F1-4240-4897-B3F0-F0DF83646D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8AB679-3EF6-4AD1-8118-0A196520DEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8AB679-3EF6-4AD1-8118-0A196520DEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8AB679-3EF6-4AD1-8118-0A196520DEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8AB679-3EF6-4AD1-8118-0A196520DEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D362D5C7-2CC8-4D0F-895B-C7EC9C7637ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D362D5C7-2CC8-4D0F-895B-C7EC9C7637ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D362D5C7-2CC8-4D0F-895B-C7EC9C7637ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D362D5C7-2CC8-4D0F-895B-C7EC9C7637ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391675F1-4240-4897-B3F0-F0DF83646D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391675F1-4240-4897-B3F0-F0DF83646D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391675F1-4240-4897-B3F0-F0DF83646D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391675F1-4240-4897-B3F0-F0DF83646D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

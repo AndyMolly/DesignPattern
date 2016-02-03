@@ -1,0 +1,4 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\代理模式\代理模式例子1\bin\Debug\代理模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\代理模式\代理模式例子1\bin\Debug\代理模式例子1.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\代理模式\代理模式例子1\obj\Debug\代理模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\代理模式\代理模式例子1\obj\Debug\代理模式例子1.pdb

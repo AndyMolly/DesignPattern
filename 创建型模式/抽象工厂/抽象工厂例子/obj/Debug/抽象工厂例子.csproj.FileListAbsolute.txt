@@ -1,0 +1,5 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\抽象工厂\抽象工厂例子\bin\Debug\抽象工厂例子.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\抽象工厂\抽象工厂例子\bin\Debug\抽象工厂例子.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\抽象工厂\抽象工厂例子\obj\Debug\抽象工厂例子.csprojResolveAssemblyReference.cache
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\抽象工厂\抽象工厂例子\obj\Debug\抽象工厂例子.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\抽象工厂\抽象工厂例子\obj\Debug\抽象工厂例子.pdb

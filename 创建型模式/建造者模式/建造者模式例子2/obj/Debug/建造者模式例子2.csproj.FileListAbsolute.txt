@@ -1,0 +1,4 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子2\bin\Debug\建造者模式例子2.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子2\bin\Debug\建造者模式例子2.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子2\obj\Debug\建造者模式例子2.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\创建型模式\建造者模式\建造者模式例子2\obj\Debug\建造者模式例子2.pdb

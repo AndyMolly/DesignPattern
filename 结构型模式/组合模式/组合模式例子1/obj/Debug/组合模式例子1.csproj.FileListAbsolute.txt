@@ -1,0 +1,5 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\组合模式\组合模式例子1\bin\Debug\组合模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\组合模式\组合模式例子1\bin\Debug\组合模式例子1.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\组合模式\组合模式例子1\obj\Debug\组合模式例子1.csprojResolveAssemblyReference.cache
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\组合模式\组合模式例子1\obj\Debug\组合模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\结构型模式\组合模式\组合模式例子1\obj\Debug\组合模式例子1.pdb

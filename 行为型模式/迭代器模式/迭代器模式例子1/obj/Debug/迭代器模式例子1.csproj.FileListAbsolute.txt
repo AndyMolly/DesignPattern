@@ -1,0 +1,4 @@
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\迭代器模式\迭代器模式例子1\bin\Debug\迭代器模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\迭代器模式\迭代器模式例子1\bin\Debug\迭代器模式例子1.pdb
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\迭代器模式\迭代器模式例子1\obj\Debug\迭代器模式例子1.exe
+C:\Users\JD\Documents\Visual Studio 2013\Projects\设计模式\行为型模式\迭代器模式\迭代器模式例子1\obj\Debug\迭代器模式例子1.pdb

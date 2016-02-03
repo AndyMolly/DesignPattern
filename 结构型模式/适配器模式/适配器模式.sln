@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式", "适配器模式\适配器模式.csproj", "{9CDAE393-2E84-42B9-B883-DA7757E6F6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式例子", "适配器模式例子\适配器模式例子.csproj", "{7442C73D-2CBA-4AA4-80A4-5DEB7FF89DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式例子2", "适配器模式例子2\适配器模式例子2.csproj", "{FC56C9BC-1905-467A-8BD6-3195B0E277E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDAE393-2E84-42B9-B883-DA7757E6F6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDAE393-2E84-42B9-B883-DA7757E6F6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDAE393-2E84-42B9-B883-DA7757E6F6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDAE393-2E84-42B9-B883-DA7757E6F6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7442C73D-2CBA-4AA4-80A4-5DEB7FF89DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7442C73D-2CBA-4AA4-80A4-5DEB7FF89DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7442C73D-2CBA-4AA4-80A4-5DEB7FF89DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7442C73D-2CBA-4AA4-80A4-5DEB7FF89DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC56C9BC-1905-467A-8BD6-3195B0E277E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC56C9BC-1905-467A-8BD6-3195B0E277E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC56C9BC-1905-467A-8BD6-3195B0E277E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC56C9BC-1905-467A-8BD6-3195B0E277E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
